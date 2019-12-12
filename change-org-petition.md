@@ -16,3 +16,5 @@ This is what should be done to fix the situation and restore the trust:
 7. Current board members and people involved in .ORG acquisition should resign.
 
 If you can use Git, come and propose your enhancement to this petition in [the repository](https://github.com/almighty-web/upgrade-icann).
+
+There is also a letter to ISOC CEO Andrew Sullivan to stop the deal, please sign it too: [savedotorg.org](https://savedotorg.org).
