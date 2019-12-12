@@ -1,8 +1,8 @@
 # Upgrade ICANN
 
 According to the situation around the .ORG acquisition, we the users of the Internet demand ICANN to meet its obligation
-and intervene into the deal, apply the changes in its' own structure and processes to protect interests of
-the people it presents.
+and intervene into the deal, apply the changes in its own structure and processes to protect interests of
+the people it presents according to [Bylaws](https://www.icann.org/resources/pages/governance/bylaws-en).
 
 ## Conditions
 
